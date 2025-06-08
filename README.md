@@ -15,6 +15,7 @@ Provided by the company, on their LMS portal.
 #### Q4 : List of all customers who live in UK or USA
 #### Q5 : List of all products sorted by product name
 #### Q6 : List of all products where product name starts with an A
+![Screenshot 2025-06-08 190740](https://github.com/user-attachments/assets/af1ec4f4-b8e4-4595-a2c0-ce3f5d33b4ed)
 #### Q7 : List of customers who ever placed an order
 #### Q8 : List of customers who live in London and have bought chai
 #### Q9 : List of customers who never place an order
@@ -24,17 +25,20 @@ Provided by the company, on their LMS portal.
 #### Q13 : For each order get the OrderID and Average quantity of items in that order
 #### Q14 : For each order get the orderID, minimum quantity and maximum quantity for that order
 #### Q15 : Get a list of all managers and total number of employees who report to them
+![Screenshot 2025-06-08 191157](https://github.com/user-attachments/assets/2fe687a7-403a-4bca-be05-ad1dc2408236)
 #### Q16 : Get the OrderID and the total quantity for each order that has a total quantity of greater than 300
 #### Q17 : List of all orders placed on or after 1996/12/31
 #### Q18 : List of all orders shipped to Canada
 #### Q19 : List of all orders with order total > 200
 #### Q20 : List of countries and sales made in each country
+![Screenshot 2025-06-08 191325](https://github.com/user-attachments/assets/f5ce078b-49e8-41aa-a6de-37c0fae3a6f5)
 #### Q21 : List of Customer ContactName and number of orders they placed
 #### Q22 : List of customer contactnames who have placed more than 3 orders
 #### Q23 : List of discontinued products which were ordered between 1/1/1997 and 1/1/1998
 #### Q24 : List of employee Firstname, Lastname, supervisor Firstname, Lastname
 #### Q25 : List of Employees id and total sale conducted by employee
 #### Q26 : List of employees whose FirstName contains character a
+![Screenshot 2025-06-08 191503](https://github.com/user-attachments/assets/9cdefda8-3494-457c-bcfc-977441263a96)
 #### Q27 : List of managers who have more than four people reporting to them
 #### Q28 : List of Orders and ProductNames
 #### Q29 : List of orders place by the best customer
@@ -42,16 +46,18 @@ Provided by the company, on their LMS portal.
 #### Q31 : List of Postal codes where the product Tofu was shipped
 #### Q32 : List of product names that were shipped to France
 #### Q33 : List of discontinued product categories for the supplier 'Specialty Biscuits, Ltd.'
+![Screenshot 2025-06-08 191648](https://github.com/user-attachments/assets/4dd361c6-9001-40a6-9f39-8e8f99d634d3)
 #### Q34 : List of customers who ordered
 #### Q35 : List of products where units in stock is less than 10 and units on order are 0.
 #### Q36 : List of top 10 countries by sales
 #### Q37 : Number of orders each employee has taken for customers with CustomerIDs between A and AO
 #### Q38 : Order date of most expensive order
+![Screenshot 2025-06-08 191752](https://github.com/user-attachments/assets/83f0b774-4ec9-413a-9790-9ece9992604e)
 #### Q39 : Product name and total revenue from that product
 #### Q40 : Supplier ID and number of products offered
 #### Q41 : Top ten customers based on their business
 #### Q42 : What is the total revenue of the company.
-
+![Screenshot 2025-06-08 191843](https://github.com/user-attachments/assets/76100e0c-0e32-4ad1-876a-3b36d714a5ef)
 ### Conclusion :-
 
 
