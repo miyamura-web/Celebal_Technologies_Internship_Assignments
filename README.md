@@ -3,10 +3,10 @@
 ## WEEK 1 Assignment :-
 
 ### Summary :-
-This SQL-based assignment was provided by the company during my internship and is centered around querying a transactional database, likely modeled on a retail or e-commerce environment. The primary objective is to extract, analyze, and interpret structured data across multiple dimensions—customers, orders, products, employees, and sales. The 42 queries are designed to test core SQL competencies such as data filtering, sorting, grouping, aggregation, joins, and subqueries. The assignment simulates real-world business reporting scenarios including identifying high-value customers, analyzing order patterns, tracking product performance, monitoring employee contributions, and calculating overall company revenue. It serves as a comprehensive exercise in business data analysis using SQL, aligning closely with data-driven decision-making tasks in enterprise environments.
+This SQL assignment, given during my internship, involved querying a transactional database modeled on a retail or e-commerce setup. It aimed to extract and analyze structured data across customers, orders, products, employees, and sales. The 42 queries tested core SQL skills filtering, sorting, grouping, joins, and subqueries through real-world business scenarios like identifying top customers, tracking product performance, and calculating revenue. Overall, it provided hands on experience in business data analysis aligned with data-driven decision making.
 
 ### Data Source :- 
-Provided by the company, on their LMS portal.
+Adventure work 2022 dataset from SSMS.
 
 ### Problem Statements :-
 #### Q1 : List of all customers
@@ -58,7 +58,7 @@ Provided by the company, on their LMS portal.
 #### Q41 : Top ten customers based on their business
 #### Q42 : What is the total revenue of the company.
 ![Screenshot 2025-06-08 191843](https://github.com/user-attachments/assets/76100e0c-0e32-4ad1-876a-3b36d714a5ef)
-### Conclusion :-
+
 
 
 
