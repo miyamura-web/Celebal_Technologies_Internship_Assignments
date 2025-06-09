@@ -63,7 +63,7 @@ Adventure work 2022 dataset from SSMS.
 
 ## WEEK 2 Assignment :-
 
-### Summery : 
+### Summary : 
 This project showcases SQL Server Stored Procedures, Functions, Views, and Triggers for managing order processing in a Northwind-style database. It includes inventory-checked order insertion, flexible updates, secure deletions, date formatting functions, dynamic order views, and triggers for maintaining data integrity and stock validation, with sample data used for testing.
 
 ### Data Source :
