@@ -2,13 +2,13 @@
 
 ## WEEK 1 Assignment :-
 
-### Summary :-
+### Summary :
 This SQL assignment, given during my internship, involved querying a transactional database modeled on a retail or e-commerce setup. It aimed to extract and analyze structured data across customers, orders, products, employees, and sales. The 42 queries tested core SQL skills filtering, sorting, grouping, joins, and subqueries through real world business scenarios like identifying top customers, tracking product performance, and calculating revenue. Overall, it provided hands on experience in business data analysis aligned with data-driven decision making.
 
-### Data Source :- 
+### Data Source :
 Adventure work 2022 dataset from SSMS.
 
-### Problem Statements :-
+### Problem Statements :
 #### Q1 : List of all customers
 #### Q2 : List of all customers where company name ending in N
 #### Q3 : List of all customers who live in Berlin or London
@@ -58,6 +58,43 @@ Adventure work 2022 dataset from SSMS.
 #### Q41 : Top ten customers based on their business
 #### Q42 : What is the total revenue of the company.
 ![Screenshot 2025-06-08 191843](https://github.com/user-attachments/assets/76100e0c-0e32-4ad1-876a-3b36d714a5ef)
+
+
+
+## WEEK 2 Assignment :-
+
+### Summery :
+
+### Data Source :
+
+### Problem Statements :
+
+#### 1. Stored Procedures -
+Create a procedure InsertOrderDetails that takes OrderID, ProductID, UnitPrice, Quantity, Discount as input parameters and inserts that order information in the Order Details table. After each order inserted, check the @@rowcount value to make sure that order was inserted properly. If for any reason the order was not inserted, print the message: Failed to place the order. Please try again. Also your procedure should have these functionalities
+Make the UnitPrice and Discount parameters optional
+If no UnitPrice is given, then use the UnitPrice value from the product table.
+If no Discount is given, then use a discount of 0.
+Adjust the quantity in stock (UnitsInStock) for the product by subtracting the quantity sold from inventory.
+However, if there is not enough of a product in stock, then abort the stored procedure without making any changes to the database.
+Print a message if the quantity in stock of a product drops below its Reorder Level as a result of the update.
+
+Create a procedure UpdateOrderDetails that takes OrderID, ProductID, UnitPrice, Quantity, and discount, and updates these values for that ProductID in that Order. All the parameters except the OrderID and ProductID should be optional so that if the user wants to only update Quantity s/he should be able to do so without providing the rest of the values. You need also to make sure that if any of the values are being passed in as NULL, then you want to retain the original value instead of overwriting it with NULL. To accomplish this, look for the ISNULL() function in google or sql server books online. Adjust the UnitsInStock value in products table accordingly.
+
+Create a procedure GetOrderDetails that takes OrderID as input parameter and returns all the records for that OrderID. If no records are found in Order Details table, then it should print the line: "The OrderID XXXX does not exist", where XXX should be the OrderID entered by user and the procedure should RETURN the value 1.
+Create a procedure DeleteOrderDetails that takes OrderID and ProductID and deletes that from Order Details table. Your procedure should validate parameters. It should return an error code (-1) and print a message if the parameters are invalid. Parameters are valid if the given order ID appears in the table and if the given product ID appears in that order.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
