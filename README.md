@@ -9,7 +9,7 @@ This SQL assignment, given during my internship, involved querying a transaction
 Adventure work 2022 dataset from SSMS.
 
 ### Problem Statements :
-See the attach file "Problem Statements - Level A Task ( Week 1 )
+See the attach file "Problem Statements - Level A Task ( Week 1 )"
 
 
 
