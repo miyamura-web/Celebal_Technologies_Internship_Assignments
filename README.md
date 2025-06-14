@@ -38,24 +38,6 @@ This project showcases SQL Server Stored Procedures, Functions, Views, and Trigg
 ➤ Create a procedure DeleteOrderDetails that takes OrderID and ProductID and deletes that from Order Details table. Your procedure should validate parameters. It should return an error code (-1) and print a message if the parameters are invalid. Parameters are valid if the given order ID appears in the table and if the given product ID appears in that order.
 
 
-#### 2. Functions -
-Review SQL Server date formats on this website and then create following functions
-http://www.sql-server-helper.com/tips/date-formats.aspx
-
-➤ Create a function that takes an input parameter type datetime and returns the date in the format MM/DD/YYYY. For example if I pass in '2006-11-21 23:34:05.920', the output of the functions should be 11/21/2006.
-
-
-➤ Create a function that takes an input parameter type datetime and returns the date in the format YYYYMMDD.
-
-#### 3. Views -
-➤ Create a view vwCustomerOrders which returns CompanyName,OrderID,OrderDate, ProductID,ProductName,Quantity,UnitPrice,Quantity * od.UnitPrice.
-
-
-➤ Create a copy of the above view and modify it so that it only returns the above information for orders that were placed yesterday.
-
-
-➤ Use a CREATE VIEW statement to create a view called MyProducts. Your view should contain the ProductID, ProductName, QuantityPerUnit and UnitPrice columns from the Products table. It should also contain the CompanyName column from the Suppliers table and the CategoryName column from the Categories table. Your view should only contain products that are not discontinued.
-
 ##### 4. Triggers -
 ➤ If someone cancels an order in northwind database, then you want to delete that order from the Orders table. But you will not be able to delete that Order before deleting the records from Order Details table for that particular order due to referential integrity constraints. Create an Instead of Delete trigger on Orders table so that if some one tries to delete an Order that trigger gets fired and that trigger should first delete everything in order details table and then delete that order from the Orders table.
 
