@@ -37,7 +37,7 @@ See the attach file "Week 2 Assignment.sql"
 ![Screenshot 2025-06-15 233716](https://github.com/user-attachments/assets/23752f3d-c584-48bb-82e9-a7c6a73f1e11)
 
 
-## WEEK 3 Assignment :- (Incoming)
+## WEEK 3 Assignment :- (In Process)
 
 ### Summary : 
 
@@ -46,6 +46,8 @@ Provided by the company.
 
 ### Problem Statements :
 See the attach file "Problem Statements - Level C Task ( Week 3 )"
+
+#### Small Preview - 
 
 
 
