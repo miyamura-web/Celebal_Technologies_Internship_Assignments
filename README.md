@@ -39,6 +39,23 @@ See the attach file "Week 2 Assignment.sql"
 
 ## WEEK 3 Assignment :- (Incoming)
 
+### Summary : 
+
+### Data Source :
+Provided by the company.
+
+### Problem Statements :
+See the attach file "Problem Statements - Level C Task ( Week 3 )"
+
+
+
+
+
+
+
+
+
+
 
 
 
