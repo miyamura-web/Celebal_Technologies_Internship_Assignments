@@ -47,6 +47,9 @@ Provided by the company.
 ### Problem Statements :
 See the attach file "Problem Statements - Level C Task ( Week 3 )"
 
+### Solutions :
+See the attach file "Week 3 Assignment.sql"
+
 #### Small Preview - 
 
 
