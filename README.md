@@ -40,6 +40,7 @@ See the attach file "Week 2 Assignment.sql"
 ## WEEK 3 Assignment :- (In Process)
 
 ### Summary : 
+This SQL assignment comprises 20 practical tasks. It involves creating and manipulating tables, writing advanced queries using CTEs, window functions, pivots, and subqueries, and applying aggregation and filtering techniques. The tasks simulate real-world scenarios such as grouping project timelines, analyzing student-friend salary comparisons, tracking contest performance, identifying top-performing hackers, generating prime numbers, classifying tree nodes, calculating business metrics like cost-to-revenue ratios and weighted averages, and managing hierarchical company data. This project offers a well-rounded blend of data engineering and analytical challenges, making it ideal for developing hands-on SQL proficiency.
 
 ### Data Source :
 Provided by the company.
