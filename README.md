@@ -43,7 +43,7 @@ See the attach file "Week 2 Assignment.sql"
 This SQL assignment comprises 20 practical tasks. It involves comprehensive use of DDL (Data Definition Language) for table creation, DML (Data Manipulation Language) for inserting, updating, and querying data, and advanced SQL techniques like CTEs, window functions, subqueries, pivots, and conditional logic. The tasks simulate real-world scenarios such as grouping project timelines, analyzing student-friend salary differences, contest and hacker performance analytics, prime number generation, binary tree classification, cost-to-revenue ratio analysis, weighted averages, and hierarchical employee structures. This assignmenet blends data engineering and analytical logic.
 
 ### Data Source :
-Provided by the company.
+Provided by the company and some manually created test data as told to do.
 
 ### Problem Statements :
 See the attach file "Problem Statements - Level C Task ( Week 3 )"
