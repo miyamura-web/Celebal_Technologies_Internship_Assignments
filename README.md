@@ -52,6 +52,7 @@ See the attach file "Problem Statements - Level C Task ( Week 3 )"
 See the attach file "Week 3 Assignment.sql"
 
 #### Small Preview - 
+![Screenshot 2025-06-22 001117](https://github.com/user-attachments/assets/45572734-7651-47e7-b000-934849703410)
 
 
 
