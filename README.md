@@ -1,5 +1,11 @@
 # Celebal_Technologies_Internship_Assignments
 
+## Project :
+Create a stored procedure to get the number of hours between two dates having a DateTime format excluding all Sundays and 1st and 2nd Saturdays.
+
+### Project Details :
+
+
 ## WEEK 1 Assignment :-
 
 ### Summary :
