@@ -10,6 +10,15 @@ See the attach file "Calculate timing hours for a given range of dates".
 See the attach file "Project 1 ( Calculating timing hours for a given range of dates ).sql".
 
 ### Expected Output : 
+Output in table - ( Generated expected result as wanted in the project guidance )
+![Screenshot 2025-06-23 001505](https://github.com/user-attachments/assets/453b79b6-3545-4380-8ac6-726b49be1d67)
+
+### Application :
+✔ HR attendance or payroll systems
+✔ Employee working hour tracking
+✔ Automated time tracking for project billing
+✔ Can be extended with a holiday calendar table for public holiday exclusion
+
 
 ## WEEK 1 Assignment :-
 
