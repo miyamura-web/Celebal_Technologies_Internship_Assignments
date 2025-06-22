@@ -1,10 +1,15 @@
 # Celebal_Technologies_Internship_Assignments
 
-## Project :
+## Project Title :
 Create a stored procedure to get the number of hours between two dates having a DateTime format excluding all Sundays and 1st and 2nd Saturdays.
 
 ### Project Details :
+See the attach file "Calculate timing hours for a given range of dates".
 
+### Solution :
+See the attach file "Project 1 ( Calculating timing hours for a given range of dates ).sql".
+
+### Expected Output : 
 
 ## WEEK 1 Assignment :-
 
