@@ -12,6 +12,7 @@ See the attach file "Project 1 ( Calculating timing hours for a given range of d
 
 #### ↪ Expected Output : 
 Output in table - ( Generated expected result as wanted in the project guidance )
+
 ![Screenshot 2025-06-23 001505](https://github.com/user-attachments/assets/453b79b6-3545-4380-8ac6-726b49be1d67)
 
 ####  Applications :
@@ -34,11 +35,15 @@ See the attach file "Problem Statements - Level A Task ( Week 1 )"
 
 ### Solutions :
 See the attach file "Week 1 Assignment.sql"
+
+
 #### ↪ Small Preview - [ Q20 ] List of countries and sales made in each country.
 ![Screenshot 2025-06-08 191325](https://github.com/user-attachments/assets/ee7c75cb-ce88-4a2a-aa4f-117405abbfcf)
 
 
 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## WEEK 2 Assignment :-
 
@@ -89,10 +94,10 @@ See the attach file "Week 3 Assignment.sql"
 See the attach file "Student Allotment SQL Problem (Week 4 )"
 
 
-### Solutions :
+### Solutions : ( Ongoing)
 
 
-
+#### ↪ Small Preview - 
 
 
 
