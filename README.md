@@ -21,6 +21,8 @@ Output in table - ( Generated expected result as wanted in the project guidance 
 ✔ Automated time tracking for project billing
 ✔ Can be extended with a holiday calendar table for public holiday exclusion
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## WEEK 1 Assignment :-
 
@@ -41,9 +43,8 @@ See the attach file "Week 1 Assignment.sql"
 ![Screenshot 2025-06-08 191325](https://github.com/user-attachments/assets/ee7c75cb-ce88-4a2a-aa4f-117405abbfcf)
 
 
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## WEEK 2 Assignment :-
 
@@ -61,6 +62,8 @@ See the attach file "Week 2 Assignment.sql"
 
 #### ↪ Small Preview - Stored Functions [ Q3 ]
 ![Screenshot 2025-06-15 233716](https://github.com/user-attachments/assets/23752f3d-c584-48bb-82e9-a7c6a73f1e11)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## WEEK 3 Assignment :- 
@@ -81,8 +84,10 @@ See the attach file "Week 3 Assignment.sql"
 ![Screenshot 2025-06-22 001117](https://github.com/user-attachments/assets/45572734-7651-47e7-b000-934849703410)
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## WEEK 4 Assignment :-
+
+## WEEK 4 Assignment :-  ( Ongoing)
 
 ### ■ Summary : 
 
@@ -94,8 +99,7 @@ See the attach file "Week 3 Assignment.sql"
 See the attach file "Student Allotment SQL Problem (Week 4 )"
 
 
-### Solutions : ( Ongoing)
-
+### Solutions :
 
 #### ↪ Small Preview - 
 
