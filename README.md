@@ -103,6 +103,8 @@ See the attach file "Student Allotment SQL Problem (Week 4 )"
 See the attach file "Week 4 Assignment.sql"
 
 #### ↪ Small Preview - SubjectDetails after allotment of some students
+![Screenshot 2025-06-25 211952](https://github.com/user-attachments/assets/1c570bdf-be34-477f-a3bf-6f7a6dfa8ba2)
+
 
 
 
