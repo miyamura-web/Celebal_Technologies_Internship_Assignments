@@ -100,6 +100,7 @@ See the attach file "Student Allotment SQL Problem (Week 4 )"
 
 
 ### Solutions :
+See the attach file "Week 4 Assignment.sql"
 
 #### ↪ Small Preview - 
 
