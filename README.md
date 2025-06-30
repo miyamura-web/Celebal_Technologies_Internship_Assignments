@@ -87,7 +87,7 @@ See the attach file "Week 3 Assignment.sql"
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## WEEK 4 Assignment :-  ( Ongoing)
+## WEEK 4 Assignment :- 
 
 ### ■ Summary : 
 This project automates subject allotment based on student preferences and GPA using SQL Server. Students are processed in descending GPA order, and subjects are assigned based on availability and ranked choices. If no preferred subject is available, the student is marked unallotted. The system ensures fair, priority-based allocation with real-time seat updates.
@@ -108,6 +108,6 @@ See the attach file "Week 4 Assignment.sql"
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+## WEEK 5 Assignment :- (Ongoing)
 
 
