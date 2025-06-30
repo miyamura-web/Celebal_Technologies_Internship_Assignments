@@ -35,7 +35,7 @@ Adventure work 2022 dataset from SSMS.
 ### Problem Statements :
 See the attach file "Problem Statements - Level A Task ( Week 1 )"
 
-### Solutions :
+### Solution :
 See the attach file "Week 1 Assignment.sql"
 
 
@@ -57,7 +57,7 @@ This project showcases SQL Server Stored Procedures, Functions, Views, and Trigg
 ### Problem Statements :
 See the attach file "Problem Statements - Level B Task ( Week 2 )"
 
-### Solutions :
+### Solution :
 See the attach file "Week 2 Assignment.sql"
 
 #### ↪ Small Preview - Stored Functions [ Q3 ]
@@ -77,7 +77,7 @@ Provided by the company and some manually created test data as per the guidance.
 ### Problem Statements :
 See the attach file "Problem Statements - Level C Task ( Week 3 )"
 
-### Solutions :
+### Solution :
 See the attach file "Week 3 Assignment.sql"
 
 #### ↪ Small Preview - [ Task 18 ]  Find Weighted average cost of employees month on month in a BU.
@@ -99,7 +99,7 @@ No external data source is required as the process is fully automated using pred
 See the attach file "Student Allotment SQL Problem (Week 4 )"
 
 
-### Solutions :
+### Solution :
 See the attach file "Week 4 Assignment.sql"
 
 #### ↪ Small Preview - Subject Details table after allotment of some students
@@ -117,9 +117,9 @@ See the attach file "Week 4 Assignment.sql"
 
 
 ### Problem Statements :
+See the attach file "Subject Change Request Problem (Week 5)"
 
-
-### Solutions :
+### Solution :
 
 
 #### ↪ Small Preview - 
