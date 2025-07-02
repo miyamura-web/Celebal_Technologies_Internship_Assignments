@@ -122,7 +122,7 @@ No external data source is required, as the process is fully automated using pre
 See the attach file "Subject Change Request Problem (Week 5)"
 
 ### Solution :
-
+See the attach file "Week 5 Assignment.sql"
 
 #### ↪ Small Preview - 
 
