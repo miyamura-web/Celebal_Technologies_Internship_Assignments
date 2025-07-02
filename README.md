@@ -111,7 +111,7 @@ See the attach file "Week 4 Assignment.sql"
 ## WEEK 5 Assignment :- (Ongoing)
 
 ### ■ Summary : 
-
+This project implements a stored procedure to manage and track students' elective subject changes by maintaining both historical and current allotments. It ensures that when a student requests a new subject, the previous valid entry is marked invalid, and the new subject is recorded as active—preserving the full timeline of changes for transparency and auditability.
 
 ### Data Source :
 
