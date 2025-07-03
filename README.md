@@ -93,7 +93,6 @@ No external data source is required as the process is fully automated using pred
 ### Problem Statements :
 See the attach file "Student Allotment SQL Problem (Week 4 )"
 
-
 ### Solution :
 See the attach file "Week 4 Assignment.sql"
 
