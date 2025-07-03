@@ -37,7 +37,6 @@ See the attach file "Problem Statements - Level A Task ( Week 1 )"
 ### Solution :
 See the attach file "Week 1 Assignment.sql"
 
-
 #### ↪ Small Preview - [ Q20 ] List of countries and sales made in each country.
 ![Screenshot 2025-06-08 191325](https://github.com/user-attachments/assets/ee7c75cb-ce88-4a2a-aa4f-117405abbfcf)
 
