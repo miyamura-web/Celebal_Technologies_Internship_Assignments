@@ -118,13 +118,13 @@ No external data source is required, as the process is fully automated using pre
 
 
 
-### Problem Statements :  SubjectAllotment table after implemented the stated workflow
+### Problem Statements :
 See the attach file "Subject Change Request Problem (Week 5)"
 
 ### Solution :
 See the attach file "Week 5 Assignment.sql"
 
-#### ↪ Small Preview - 
+#### ↪ Small Preview -  SubjectAllotment table after implemented the stated workflow
 ![Screenshot 2025-07-01 000931](https://github.com/user-attachments/assets/66fac8cf-af77-4bff-8f3b-8da99003fbb8)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
