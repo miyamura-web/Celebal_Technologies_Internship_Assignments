@@ -117,7 +117,6 @@ This project implements a stored procedure to manage and track student's electiv
 No external data source is required, as the process is fully automated using predefined entries within the database. All student, subject, and preference information is managed internally through the SubjectAllotments and SubjectRequest tables, enabling seamless tracking and updating of subject changes without manual intervention or third-party integration.
 
 
-
 ### Problem Statements :
 See the attach file "Subject Change Request Problem (Week 5)"
 
