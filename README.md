@@ -123,7 +123,6 @@ See the attach file "Week 5 Assignment.sql"
 
 ## WEEK 6 Assignment :-  ( Coming soon)
 
-
 ### ■ Summary : 
 
 
