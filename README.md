@@ -21,6 +21,7 @@ Output in table - ( Generated expected result as wanted in the project guidance 
 ✔ Automated time tracking for project billing
 ✔ Can be extended with a holiday calendar table for public holiday exclusion
 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## WEEK 1 Assignment :-
@@ -59,6 +60,7 @@ See the attach file "Week 2 Assignment.sql"
 
 #### ↪ Small Preview - Stored Functions [ Q3 ]
 ![Screenshot 2025-06-15 233716](https://github.com/user-attachments/assets/23752f3d-c584-48bb-82e9-a7c6a73f1e11)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
