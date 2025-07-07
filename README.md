@@ -121,6 +121,7 @@ See the attach file "Week 5 Assignment.sql"
 #### ↪ Small Preview -  SubjectAllotment table after implemented the stated workflow
 ![Screenshot 2025-07-01 000931](https://github.com/user-attachments/assets/66fac8cf-af77-4bff-8f3b-8da99003fbb8)
 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## WEEK 6 Assignment :-  Solved LeetCode Problems
