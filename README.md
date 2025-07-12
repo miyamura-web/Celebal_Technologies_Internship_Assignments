@@ -131,6 +131,7 @@ See the attach file "Week 5 Assignment.sql"
 ## WEEK 7 Assignment :- 
 
 
+### ■ Summary : 
 
 
 
