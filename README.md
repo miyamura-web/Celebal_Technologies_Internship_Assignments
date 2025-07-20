@@ -140,4 +140,5 @@ Create the stored procedure for SCD type 0,SCD type 1,SCD type 2,SCD type 3,SCD 
 ### Solution :
 See the attach file "Week 7 Assignment.sql"
 
+#### ↪ Small Preview - 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
