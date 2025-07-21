@@ -130,7 +130,6 @@ See the attach file "Week 5 Assignment.sql"
 
 ## WEEK 7 Assignment :- 
 
-
 ### ■ Summary : 
 This project demonstrates comprehensive implementation of Slowly Changing Dimensions (SCD) Types 0 to 6 using T-SQL with staging and dimension tables. It mimics real-world data warehousing scenarios where historical and current data management is crucial for reporting, analytics, and tracking changes over time.
 
@@ -149,4 +148,6 @@ See the attach file "Week 7 Assignment.sql"
 
 ### ■ Summary :
 
+
+### Problem Statements :
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
