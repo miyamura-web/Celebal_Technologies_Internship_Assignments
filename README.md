@@ -147,7 +147,7 @@ See the attach file "Week 7 Assignment.sql"
 ## WEEK 8 Assignment :- ( Coming Soon )
 
 ### ■ Summary :
-
+This project includes a SQL Server stored procedure (usp_PopulateDateDimension) that generates and populates a comprehensive Date Dimension table for a full calendar year based on a user-provided input date.
 
 ### Problem Statements :
 Write a Stored Procedure that populates a table with certain date attributes. The data would be populated for 1 year. For example the date 14-07-2020 is passed as an input parameter, then the stored procedure will populate those attributes for all the dates present within the year 2020. The primary key for this table would be date column. In order to find sample data and list of attributes please click on the link. Constraint: More than one insert statement cannot be used
