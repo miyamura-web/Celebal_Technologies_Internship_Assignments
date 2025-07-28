@@ -144,7 +144,7 @@ See the attach file "Week 7 Assignment.sql"
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## WEEK 8 Assignment :- ( Coming Soon )
+## WEEK 8 Assignment :- 
 
 ### ■ Summary :
 This project includes a SQL Server stored procedure (usp_PopulateDateDimension) that generates and populates a comprehensive Date Dimension table for a full calendar year based on a user-provided input date.
